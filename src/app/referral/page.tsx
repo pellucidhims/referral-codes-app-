@@ -1,4 +1,4 @@
-import getInitialProps from "./get-initial-props";
+import getInitialProps from "@/app/get-initial-props";
 import { ReferralCodeList } from "@/components/ReferralCodeList";
 
 export default async function HomePage() {
